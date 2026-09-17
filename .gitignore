@@ -1,0 +1,59 @@
+# PlatformIO
+.pio/
+.vscode/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+.cursor/
+
+# Build artifacts
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Claude Code
+.claude/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specific
+*.log
+credentials.json
+secrets.h
+
+# Backup files
+*.bak
+*.backup
+*~
