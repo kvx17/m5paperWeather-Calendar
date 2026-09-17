@@ -8,6 +8,8 @@ The UI is English only. There is no on-screen language toggle.
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-Ready-orange.svg)](https://platformio.org/)
 [![ESP32](https://img.shields.io/badge/ESP32-M5Paper%20v1.1-blue.svg)](https://docs.m5stack.com/en/core/m5paper)
 
+![Dashboard](m5paper.gif)
+
 ## What it does
 
 The device shows weather from [Open-Meteo](https://open-meteo.com/) (no API key) and a calendar panel in one of two layouts. Settings are stored in flash and survive reboot.
